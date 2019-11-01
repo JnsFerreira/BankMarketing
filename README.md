@@ -21,5 +21,5 @@
   
   ## Fonte de Dados
   
-  * [Fonte oficial do dataset] (https://archive.ics.uci.edu/ml/datasets/bank+marketing)
+  * [Fonte oficial do dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
   * [Dados](https://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank.zip)
