@@ -17,6 +17,8 @@
   
   ## Arquivo Jupyter Notebook
   
+  Infelizmente o github não tem suporte para o plotly (Biblioteca utilizada para os gráficos), porém estou disponibilizado uma versão em HTML, que pode ser visualizada através do navegador
+  
   * [Bank Marketing](https://github.com/JnsFerreira/BankMarketing/blob/master/Bank-Marketing.ipynb)
   
   ## Fonte de Dados
